@@ -7,7 +7,7 @@ An intelligent PDF processing system that extracts structured outlines and metad
 ## Quick Start
 
 ```bash
-git clone https://github.com/Prtm2110/ChallengePDF-1B.git
+git clone https://github.com/anadimehta/Adobe-India-Hackathon-Round2-1B.git
 cd challenge1B
 pip install -r requirements.txt
 ```
