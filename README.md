@@ -1,3 +1,5 @@
+# Adobe-India-Hackathon-Round2-1B
+
 # PDF Smart Semantic Search & Query Response
 
 An intelligent PDF processing system that extracts structured outlines and metadata from PDF collections and provides semantic search capabilities for document analysis.
@@ -168,4 +170,3 @@ python3 semantic_search.py "challenge_pdfs/Collection 2/challenge1b_input.json" 
 * Import errors: Run `pip install -r requirements.txt`
 * Permission issues: Ensure write access to output folders
 
-# Adobe-India-Hackathon-Round2-1B
